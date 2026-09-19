@@ -1,0 +1,11 @@
+html {
+    font-family: Arial;
+}
+
+#download-button{
+    background-color: plum;
+    padding: 10px;
+    color: brown;
+    text-decoration: none;
+    border-radius: 4px;
+}
